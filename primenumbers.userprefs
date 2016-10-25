@@ -1,1 +1,12 @@
-﻿<Properties StartupItem="primenumbers/primenumbers.csproj" />
+﻿<Properties StartupItem="primenumbers/primenumbers.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="primenumbers/Program.cs">
+    <Files>
+      <File FileName="primenumbers/Program.cs" Line="10" Column="22" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
