@@ -1,5 +1,5 @@
 #Prime CSharp
-##Calculates the prime numbers in C\#
+##Calculates the prime numbers in CSharp
 Project develloped with MonoDevelop. Can be oppened with Visual Studio.
 
 | Max           | Time          |
