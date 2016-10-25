@@ -1,0 +1,5 @@
+/home/quentin/Documents/primenumberscsharp/primenumbers/primenumbers/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/quentin/Documents/primenumberscsharp/primenumbers/primenumbers/bin/Debug/primenumbers.exe.mdb
+/home/quentin/Documents/primenumberscsharp/primenumbers/primenumbers/bin/Debug/primenumbers.exe
+/home/quentin/Documents/primenumberscsharp/primenumbers/primenumbers/obj/x86/Debug/primenumbers.exe
+/home/quentin/Documents/primenumberscsharp/primenumbers/primenumbers/obj/x86/Debug/primenumbers.exe.mdb
